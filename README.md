@@ -2,14 +2,6 @@
 # Hello curious people 👋
 Welcome to my public GitHub Page, a easy way to get to know me and my work. 
 Scroll down if you want to activate your own.
-## Summary 📋
-
-- [Who am I](#who-am-i-👨‍💻 )
-- [My projects](#my-projects-🚀)
-- [My Development Stack](#my-development-stack-🧰)
-- [Jobs](#jobs-💼)
-- [Get in touch](#get-in-touch-📫)
--  [How to create a public profile like me ?](#github-easter-egg-🥚)
 ##
 ### Who am I 👨‍💻 
 I am currently a student in the digital school OpenClassroom in Paris to get my degree in Python development
