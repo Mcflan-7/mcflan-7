@@ -1,0 +1,70 @@
+{   
+    "workbench.colorCustomizations": {
+     "terminal.background": "#272822",
+    "terminal.foreground": "#F8F8F2",
+    "terminalCursor.background": "#F8F8F2",
+    "terminalCursor.foreground": "#F8F8F2",
+    "terminal.ansiBlack": "#272822",
+    "terminal.ansiBlue": "#66D9EF",
+    "terminal.ansiBrightBlack": "#75715E",
+    "terminal.ansiBrightBlue": "#66D9EF",
+    "terminal.ansiBrightCyan": "#A1EFE4",
+    "terminal.ansiBrightGreen": "#A6E22E",
+    "terminal.ansiBrightMagenta": "#AE81FF",
+    "terminal.ansiBrightRed": "#F92672",
+    "terminal.ansiBrightWhite": "#F9F8F5",
+    "terminal.ansiBrightYellow": "#F4BF75",
+    "terminal.ansiCyan": "#A1EFE4",
+    "terminal.ansiGreen": "#A6E22E",
+    "terminal.ansiMagenta": "#AE81FF",
+    "terminal.ansiRed": "#F92672",
+    "terminal.ansiWhite": "#F8F8F2",
+    "terminal.ansiYellow": "#F4BF75"
+    },
+  
+    "python.formatting.blackPath": "black",
+    "python.sortImports.path": "isort",
+    "python.formatting.provider": "black",
+    "editor.formatOnSave": true,
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+  
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "terminal.integrated.fontFamily": "'SourceCodePro+Powerline+Awesome Regular'",
+    "python.languageServer": "Microsoft",
+    "workbench.settings.editor": "json",
+    "workbench.settings.openDefaultSettings": true,
+    "workbench.settings.useSplitJSON": true,
+    "explorer.confirmDelete": false,
+    "window.zoomLevel": 0,
+    "prettier.disableLanguages": ["python"],
+    "files.exclude": {
+      "**/.git": true,
+      "**/.svn": true,
+      "**/.hg": true,
+      "**/CVS": true,
+      "**/.DS_Store": true,
+      "__pycache__/": true,
+      ".vscode": true,
+      "venv": true,
+      ".pytest_cache": true,
+      ".gitignore": true,
+      "*/__pycache__": true
+    },
+    "explorer.confirmDragAndDrop": false,
+    "[html]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "files.associations": {
+      "*.html": "html"
+    },
+    "[javascript]": {
+      "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "One Monokai",
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.donotVerifyTags": true
+  }
+  
