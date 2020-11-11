@@ -1,4 +1,4 @@
-
+![enter image description here](https://media-exp1.licdn.com/dms/image/C4D16AQGjDha0UjtQDQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=DUYCRGR4q6Dac_cuoLOADMH0BjJNcUaT6uGYdA0XSOY)
 # Hello curious people 👋
 Welcome to my public GitHub Page, a easy way to get to know me and my work. 
 Scroll down if you want to activate your own.
