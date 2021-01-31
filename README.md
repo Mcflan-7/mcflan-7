@@ -1,15 +1,16 @@
-![enter image description here](https://media-exp1.licdn.com/dms/image/C4D16AQGjDha0UjtQDQ/profile-displaybackgroundimage-shrink_350_1400/0?e=1610582400&v=beta&t=DUYCRGR4q6Dac_cuoLOADMH0BjJNcUaT6uGYdA0XSOY)
+![enter image description here](https://media-exp1.licdn.com/dms/image/C4D16AQGjDha0UjtQDQ/profile-displaybackgroundimage-shrink_350_1400/0/1591134268015?e=1617840000&v=beta&t=SRn4yTVstxntEI1v-pxjgUpOvTi3RloqxxL5qvc94-4)
+
 # Hello curious people 👋
 Welcome to my public GitHub Page, a easy way to get to know me and my work. 
 Scroll down if you want to activate your own.
 ##
 ### Who am I 👨‍💻 
-I am currently a student in the digital school OpenClassroom in Paris to get my degree in Python development
+I am currently a student in the digital school OpenClassroom in Paris to get my degree in Python development, I am also an entrepreneur specilaized in the creation of digital tools for hospitality personals.
 
 ### My projects 🚀
 I am the creator of front-desk.fr a French webplateform with digital tools for hospitalities professionals.
 
-Launched since 2019 it is used by major hotels compagnies such as Accor, Louvres Hotel, Mariotte International, Best Western and much more.
+Launched since 2020 it is used by major hotels compagnies such as Accor, Louvres Hotel, Mariotte International, Best Western and much more.
 
 The platform is built using Django (Python), React (JS), SASS (CSS) and third party libraries (Boostrap, Font-awesome) ...
  
