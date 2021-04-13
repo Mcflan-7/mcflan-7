@@ -1,4 +1,4 @@
-![enter image description here](https://media-exp1.licdn.com/dms/image/C4D16AQGjDha0UjtQDQ/profile-displaybackgroundimage-shrink_350_1400/0/1591134268015?e=1617840000&v=beta&t=SRn4yTVstxntEI1v-pxjgUpOvTi3RloqxxL5qvc94-4)
+![enter image description here](https://media-exp1.licdn.com/dms/image/C4D16AQGjDha0UjtQDQ/profile-displaybackgroundimage-shrink_350_1400/0/1591134268015?e=1623888000&v=beta&t=aNwFPocr3-yLUk3i1FjpUROkKCFW9zWWkt6RvBD1_ms)
 
 # Hello curious people 👋
 Welcome to my public GitHub Page, a easy way to get to know me and my work. 
