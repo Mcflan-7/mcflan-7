@@ -5,7 +5,7 @@ Welcome to my public GitHub Page, a easy way to get to know me and my work.
 Scroll down if you want to activate your own.
 ##
 ### Who am I 👨‍💻 
-I am currently a student in the digital school OpenClassroom in Paris to get my degree in Python development, I am also an entrepreneur specilaized in the creation of digital tools for hospitality personals.
+I have a degree in Python development, I am also an entrepreneur specilaized in the creation of digital tools for hospitality personals.
 
 ### My projects 🚀
 I am the creator of front-desk.fr a French webplateform with digital tools for hospitalities professionals.
