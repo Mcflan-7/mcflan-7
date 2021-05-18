@@ -24,12 +24,7 @@ The platform is built using Django (Python), React (JS), SASS (CSS) and third pa
 
 ### Jobs 💼 
 
-I am open to work in Paris - France either to telecommute or remote work in any location in the following fields :
-
- - Front end development 
- - Back end development 
- - Automation 
- - Freelance 
+Currently working as full stack developer at Julia 
 
 ###  Get in touch 📫
 
