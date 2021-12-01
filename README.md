@@ -3,12 +3,12 @@
 Welcome to my public GitHub Page, a easy way to get to know me and my work. 
 ##
 ### Who am I 👨‍💻 
-I have a degree in Python development, I am also an entrepreneur specialized in the creation of digital tools for the hospitality buisness, I am currently working as a CEO and fullstack developer for a Front Desk. 
+I have a degree in Python development, I am also an entrepreneur specialized in the creation of digital tools for the hospitality buisness, I am currently working as a co-founder and CTO for Front Desk company. 
 
 ### My projects 🚀
-I am the creator of front-desk.app a French webplateform with digital tools for hospitalities professionals.
+I am the creator of front-desk.app a French webplateform with digitaltools for hospitalities professionals.
 
-Launched since 2020 it is used by major hotels compagnies such as Accor, Louvres Hotel, Mariotte International, Best Western and much more.
+Launched in late 2021 it is used by major hotels compagnies such as Accor, Louvres Hotel, Mariotte International, Best Western and much more.
 
 The platform is built using Django (Python), React (JS), SASS (CSS) and third party libraries (Boostrap, Font-awesome) ...
  
