@@ -10,7 +10,7 @@ In 2020 I graduated from a 1 year IT school in Paris (France) with [OpenClassroo
 
 ### What I write about ✍️
 
-You can find my articles on [gaetangr.github.io](https://gaetangr.github.io/) where I write about software development, security, tech and my journey as a entrepreneur and CTO.
+You can find my articles on [gaetangrond.me](https://gaetangrond.me/) where I write about software development, security, tech and my journey as a entrepreneur and CTO.
 
 ### My projects 🚀
 
