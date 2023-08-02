@@ -1,37 +1,29 @@
-
 # Hello  👋
-Welcome to my public GitHub Page, a easy way to get to know me and my work. 
-##
+
+I am Gaëtan, a software developer and CTO at [Front Desk](https://front-desk.app) a French startup specialized in the creation of digital tools for the hospitality buisness.
+
 ### Who am I 👨‍💻 
-I have a degree in Python development, I am also an entrepreneur specialized in the creation of digital tools for the hospitality buisness, I am currently working as a co-founder and CTO for Front Desk company. 
+
+I shifted my career from hospitality to software development in 2020 during the COVID-19 pandemic.
+
+In 2020 I graduated from a 1 year IT school in Paris (France) with [OpenClassrooms](https://openclassrooms.com/fr/paths/518-developpeur-dapplication-python) and I am currently working as a CTO at Front Desk.
+
+### What I write about ✍️
+
+You can find my articles on [gaetangr.github.io](https://gaetangr.github.io/) where I write about software development, security, tech and my journey as a entrepreneur and CTO.
 
 ### My projects 🚀
-I am the creator of front-desk.app a French webplateform with digitaltools for hospitalities professionals.
+
+I am the creator of Front Desk App a French webplateform with digitaltools for hospitalities professionals.
 
 Launched in late 2021 it is used by major hotels compagnies such as Accor, Louvres Hotel, Mariotte International, Best Western and much more.
 
-The platform is built using Django (Python), React (JS), SASS (CSS) and third party libraries (Boostrap, Font-awesome) ...
+The platform is built using Django and Django Rest Framework for the backend and Flutter for the mobile app and soon the web app and desktop app.
  
-###   My Development Stack 🧰 
-
-**Front-end langages & Frameworks:** Javascript, Typescript, CSS3/HTML5, ReactJS, Angular, SASSS, Flutter...
-
-**Back-end languages & Frameworks:** Python, Django, Django Rest, Flask, Dart ...
-
-**DevOps**: Github, Docker, Travis CI, Circle CI..
-
 ### Jobs 💼 
 
-**Not available**: Currently working as full stack developer at Front Desk 
+**Not available**: Currently not looking for a new job or freelance contract.
 
 ###  Get in touch 📫
 
-If you have enquiries regarding my projects or want to collaborate on something please see the contact details below.
-		
- How to reach me: hit me up on [LinkedIn](https://www.linkedin.com/in/ga%C3%ABtan-g-b1502469/) for professionals enqueries or to my business  address : hello@front-desk.app
-
-###  Github easter egg 🥚 
-Github has a special feature if you wish to edit your GitHub public page:
-- Create a public repository with the same name as your username 
-- Create a README.MD
-- Edit as you wish, it will be available on your GitHub page
+I do not use social media but you can contact me by email at [angeatrg_gd@proton.me](mailto:angeatrg_gd@proton.me) or on [LinkedIn](https://www.linkedin.com/in/gaetangr/).
